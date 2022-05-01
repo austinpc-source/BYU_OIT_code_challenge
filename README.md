@@ -1,1 +1,1 @@
-# BYU_OIT_code_challenge
+This c file holds all the source code for converting between roman numerals and numbers. For compiling this file on windows, I like to use the developer command prompt for visual studios 2022. This makes it so the c file is placed in the current desired directory and can be built into an executable by running the command "cl filename.c". In this circumstance, the command is: cl numeralConverter.c.
